@@ -21,7 +21,7 @@
   <parent>
     <groupId>org.tomitribe.johnzon</groupId>
     <artifactId>johnzon-jakarta</artifactId>
-    <version>1.2.21</version>
+    <version>1.2.22-SNAPSHOT</version>
   </parent>
 
   <artifactId>johnzon-jsonb</artifactId>
